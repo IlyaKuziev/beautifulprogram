@@ -1,6 +1,6 @@
 # beautifulprogram
 import turtle
-1
+
 def draw_column():
     screen = turtle.Screen()
     screen.bgcolor("white")
