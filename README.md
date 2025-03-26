@@ -1,5 +1,9 @@
 # beautifulprogram
-import turtle
+nonononnononono
+
+
+
+26 march
 
 def draw_column():
     screen = turtle.Screen()
