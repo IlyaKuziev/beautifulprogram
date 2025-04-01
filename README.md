@@ -1,9 +1,6 @@
 # beautifulprogram
 test
-200-30 march
-
-
-26 march
+01 aprel
 
 def draw_column():
     screen = turtle.Screen()
