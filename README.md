@@ -13,7 +13,7 @@ def update(frame, line):
     scale = 1 + 0.1 * np.sin(frame * np.pi / 20)  # Pulsing effect
     t = np.linspace(0, 2 * np.pi, 100)  
     x, y = heart_shape(t, scale) 
-    line.set_data(x, y)
+    line.set_data(x, y) 
     return line,
 
 def animate_pulsing_heart():
