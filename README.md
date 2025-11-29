@@ -14,7 +14,6 @@ def update(frame, line):     scale = 1 + 0.1 * np.sin(frame * np.pi / 20)  # Pul
     x, y = heart_shape(t, scale) 
     line.set_data(x, y)  
     return line, 
-
     
 def animate_pulsing_heart():
     fig, ax = plt.subplots() 
