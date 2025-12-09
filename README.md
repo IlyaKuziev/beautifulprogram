@@ -1,5 +1,5 @@
 .eslintrc.cjs
-   </header>
+   </header> 
      </div> 
 # pulse
 import numpy as np
